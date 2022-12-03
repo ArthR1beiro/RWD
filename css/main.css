@@ -118,8 +118,6 @@ h1, h2, h3, h4, h5, h6{
     font-weight: normal;
 }
 
-
-
 .hidden{
     width: 0;
     height: 0;
@@ -150,7 +148,7 @@ h1, h2, h3, h4, h5, h6{
     color: white;
 }
 
-@media screen and (min-width: 48.75em){
+@media screen and (min-width: 22.8em){
     
     .top-header-logo{
         float: left;

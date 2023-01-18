@@ -11,11 +11,11 @@
 - [Autores](#autores)
 
 ## A ideia
-Desenvolvimento de um portifolio cuja demonstre altas tecnicas de frontend e design combinadas para entregar ao usuario uma experiencia agradavel ao conferir minhas habilidades.
+Desenvolvimento de um pagina responsiva, que se ajusta o conteudo à resolução atual do dispositivo.
 
 ## Funcionalidades
 ### HTML/CSS
-- Responsividade
+- Responsividade:
 Minha primeira pagina reposiva conta com 3 media queries para melhor visualização em seu dispositivo.
 
 ## Disponivel em
